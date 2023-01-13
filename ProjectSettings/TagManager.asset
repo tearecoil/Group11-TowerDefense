@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Out
+  - Enemy
+  - Tower
+  - Home
+  - CapturePoint
+  - Bullet
+  - AttackRadius
+  - ActionIcon
+  - Defender
+  - LevelUI
+  - AttackRadiusBig
+  - player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - SpawnPoints
+  - Tower
+  - Enemy
+  - Bullet
+  - AttackEnemy
+  - AttackAlly
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2203338601
+    locked: 0
+  - name: Foreground
+    uniqueID: 1747214959
+    locked: 0
+  - name: Towers
+    uniqueID: 3554832691
+    locked: 0
+  - name: Enemies
+    uniqueID: 4059416769
+    locked: 0
+  - name: Decoration
+    uniqueID: 875359309
+    locked: 0
+  - name: UI
+    uniqueID: 1589437805
+    locked: 0
